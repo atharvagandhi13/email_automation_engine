@@ -1,5 +1,7 @@
 Google Sheets Email Automation Engine (Apps Script)
 
+Sheet → Script → Gmail → Repository log
+
 A lightweight Gmail automation system that sends personalized HTML emails directly from Google Sheets using Google Apps Script.
 
 Designed for:
