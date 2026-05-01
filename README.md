@@ -103,6 +103,16 @@ Gmail Service
 Google Drive API  
 
 ---
+## 📸 Workflow Preview
+
+### Mail Queue Example
+![Mail Queue](screenshots/mail_queue.png)
+
+### Execution Logs
+![Repository Logs](screenshots/repository_logs.png)
+
+### Email Output Example
+![Email Output](screenshots/email_output.png)
 
 # 👨‍💻 Author
 
